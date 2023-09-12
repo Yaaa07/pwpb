@@ -1,0 +1,2 @@
+C:\Users\Lenovo\OneDrive\Desktop\BELAJAR HTML\si s	file not recognized: File format not recognized
+C:\Users\Lenovo\OneDrive\Desktop\BELAJAR HTML\collect2.exe	[Error] ld returned 1 exit status
